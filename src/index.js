@@ -1,4 +1,5 @@
 import $ from "jquery";
+import "babel-polyfill";
 
 let portfolio = [
   { symbol: "AAPL", purchasePrice: 192.0, qty: 100 },
